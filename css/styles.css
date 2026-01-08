@@ -1,3 +1,17 @@
 h1{
     color:brown
 }
+body{
+    background-color: rgb(252, 239, 58);
+}
+#encabezado{
+    background-color: rgb(255, 166, 31);
+    height: 150px;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow:10px, 10px, 5px, rgba(0, 0, 0, 0) ;
+
+
+}
