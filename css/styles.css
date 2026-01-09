@@ -12,6 +12,20 @@ body{
     border-radius: 10px;
     padding: 20px;
     box-shadow:10px, 10px, 5px, rgba(0, 0, 0, 0) ;
+    display: flex;
 
 
+}
+.tic img{
+    background-color: rgb(255, 121, 32);
+    max-width: 100%;
+
+}
+.redes{
+    background-color: rgb(252, 255, 46);
+    width: auto;
+}
+.menu{
+    background-color: burlywood;
+    width: 30%;
 }
